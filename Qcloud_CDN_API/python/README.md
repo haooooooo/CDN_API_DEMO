@@ -58,3 +58,6 @@ python QcloudCdnTools_V2.py DescribeCdnHostDetailedInfo -u xxxxxxxxxxxx -p xxxxx
 
 ##DescribeCdnHostInfo
 python QcloudCdnTools_V2.py DescribeCdnHostInfo -u xxxxxxxxxxxx -p xxxxxxxxxxxx  --startDate 2016-05-08 --endDate 2016-05-09  --projects 0  --statType bandwidth  --debug
+
+##DescribeCdnHostInfo
+python QcloudCdnTools_V2.py DescribeCdnHostInfo -u xxxxxxxxxxxx -p xxxxxxxxxxxx  --startDate 2016-05-08 --endDate 2016-05-09  --projects 0  --statType bandwidth  --debug
